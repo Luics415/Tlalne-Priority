@@ -1,0 +1,2 @@
+#include "models/HistoryEntry.h"
+

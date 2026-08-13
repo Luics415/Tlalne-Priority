@@ -1,0 +1,9 @@
+/build/
+/out/
+*.exe
+*.obj
+*.o
+*.user
+Data/*.csv
+!Data/.gitkeep
+
