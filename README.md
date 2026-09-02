@@ -21,3 +21,7 @@ Ejecuta `TlalnePriority.exe` desde la carpeta generada por CMake. La aplicacion 
 `riesgo * 10 + min(20, reportes * 2) + min(15, dias de antiguedad) + peso del tipo`, limitado a 0-100. Los pesos son: semaforo 18, fuga de agua 17, alumbrado 12, bache 11, basura 8, senalizacion 7 y otro 5.
 
 Clasificacion: 0-30 BAJA, 31-55 MEDIA, 56-75 ALTA y 76-100 CRITICA. La prioridad se recalcula al consultar, filtrar o editar.
+
+## Capturas de Pantalla
+
+<img width="551" height="354" alt="image" src="https://github.com/user-attachments/assets/6dd5bd5f-9ddc-43c1-b316-471bf306d03b" />
